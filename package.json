@@ -22,7 +22,8 @@
     "reselect": "^4.0.0"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start" :"node app.js",
+    "starts": "react-scripts start",
     "build": "react-scripts build",
     "lint": "eslint src/**/*.js",
     "test": "react-scripts test --env=jsdom",
