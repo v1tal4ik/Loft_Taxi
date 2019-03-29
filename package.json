@@ -23,6 +23,7 @@
   },
   "scripts": {
     "start" :"node app.js",
+    "test":"exit 0",
     "starts": "react-scripts start",
     "build": "react-scripts build",
     "lint": "eslint src/**/*.js",
