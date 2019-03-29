@@ -49,6 +49,7 @@
 .login-form-btn:hover{
     background: #6c96d8;
     color:#fff;
+    cursor:pointer;
 }
 
 .login-form-error{

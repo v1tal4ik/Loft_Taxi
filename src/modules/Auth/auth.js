@@ -4,7 +4,7 @@ import {successAuth,errorAuth,exitAuth} from './actions';
 
 
 
-const login = handleActions({},'test@test.ru');
+const login = handleActions({},'test@test.com');
 
 const password = handleActions({},'321');
 
